@@ -2,7 +2,7 @@
 title: "QUIC相关翻译说明"
 anchor: "QUIC_Related"
 weight: 110
-rank: "h2"
+rank: "h1"
 ---
 
 ### 1. 帧类型等翻译展示
